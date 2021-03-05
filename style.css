@@ -1,0 +1,9 @@
+body{
+	background: Linear-gradient(to right, #E0FFFF, #DCDC,#E0FFFF);
+}
+.wrap{
+	widht: 40%;
+	margin: auto;
+	color: white;
+	background-color: #008B8B;
+}
